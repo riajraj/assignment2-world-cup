@@ -8,7 +8,6 @@ header {
     border-radius: 15px;
     display: flex;
     margin: 25px;
-    height: 600px;
 }
 
 header h1 {
@@ -36,12 +35,14 @@ header button {
     margin-top: 2%;
 }
 
-#blog{
+#blog {
     display: flex;
 }
-#blog aside{
+
+#blog aside {
     width: 20%;
 }
-#blog section{
+
+#blog section {
     width: 80%;
 }
